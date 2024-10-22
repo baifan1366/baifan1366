@@ -39,3 +39,21 @@ Here are some of the languages, frameworks, and tools I use regularly:
 - **Screenshots**: Include project screenshots if available.
   
 ---
+
+## 📞 Contact Me
+
+Feel free to reach out to me through the following platforms:
+
+### [LinkedIn](https://www.linkedin.com/in/sim-po-tan-8a89b1274/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sim-po-tan-8a89b1274/)
+
+---
+
+
+### [JobStreet](https://my.jobstreet.com/profile/tan-simpo-nY2YPZPzBX)
+[![JobStreet](https://img.shields.io/badge/JobStreet-8E24AA?logo=briefcase&logoColor=white)](https://my.jobstreet.com/profile/tan-simpo-nY2YPZPzBX)
+
+---
+
+### Email
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:baifan1366@gmail.com)
