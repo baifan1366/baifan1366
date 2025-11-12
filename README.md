@@ -1,100 +1,85 @@
-# 👋 Hi, I'm Tan Sim Po
+<!-- Profile Header -->
+<h1 align="center">👋 Hi, I'm Tan Sim Po</h1>
+<h3 align="center">AI-Powered Full Stack Developer | Next.js · LangChain · Supabase</h3>
 
-🎓 **Bachelor of Computer Science (Software Engineering)**  
-Multimedia University, Cyberjaya | 2025.11 – Now  
-📍 Based in Melaka, Malaysia  
-📧 baifan1366@gmail.com | 💬 WhatsApp: 01155819008  
-
----
-
-## 💡 About Me
-
-I’m a passionate **AI-powered full-stack developer** who enjoys building intelligent, user-centric applications that blend backend logic with seamless frontend experiences.  
-My work often involves **Next.js**, **React**, and **LangChain**, combining traditional software engineering with **AI, embeddings, and automation**.
+<p align="center">
+  🎓 Bachelor of Computer Science (Software Engineering) @ Multimedia University, Cyberjaya  
+  <br/>
+  📍 Based in Melaka, Malaysia  
+  <br/>
+  💬 WhatsApp: 01155819008 · ✉️ <a href="mailto:baifan1366@gmail.com">baifan1366@gmail.com</a>
+</p>
 
 ---
 
-## 🧠 Technical Skills
+## 🧠 About Me
+I’m an AI-driven full-stack developer passionate about building intelligent web systems that combine **Next.js**, **LangChain**, and **vector-based AI retrieval**.  
+I love designing systems that **think**, **analyze**, and **assist users autonomously** — from RAG-powered learning assistants to AI-driven project management tools.
+
+---
+
+## ⚙️ Tech Stack
 
 | Category | Technologies |
 |-----------|---------------|
 | **Languages** | JavaScript, TypeScript, C, C++, Java, PHP |
-| **Frameworks / Libraries** | React, Next.js, Tailwind CSS, Redux, Angular, LangChain |
-| **Databases** | PostgreSQL, MySQL, Supabase, Redis |
-| **Tools & DevOps** | Git, Vercel, Stripe, HuggingFace, Swagger, Postman |
-| **AI / ML** | Embeddings (OpenAI / SBERT), Whisper AI, RAG Pipelines |
-| **Version Control & Deployment** | GitHub, Vercel, Render |
+| **Frontend** | React, Next.js (App Router), Tailwind CSS, Redux, Angular |
+| **Backend & Infra** | Node.js, Supabase, PostgreSQL, Redis, Stripe, Vercel |
+| **AI / ML** | LangChain, OpenAI, Whisper AI, Embeddings (SBERT/384·1024), RAG |
+| **Tools** | Git, Swagger, Postman, HuggingFace, Render |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏆 [Studify – AI-Powered Tutoring RAG App](https://github.com/baifan1366/Studify)
-**Hackathon Winner Project | Team Lead | 2025.02 – 2025.07**
-
-An AI-powered learning platform that transforms raw educational materials into searchable, interactive knowledge units.
-
-**Key Features**
-- 🔹 Dual Embedding Architecture (384 & 1024 dimensions) for improved semantic retrieval  
-- 🔹 Multimodal Video Understanding Pipeline using Whisper AI  
-- 🔹 AI Agent with multi-tool reasoning & self-calling capabilities  
-- 🔹 AI Video Assistant capable of answering contextual video questions  
-
-**Tech Stack:** `Next.js` · `React` · `LangChain` · `Redis` · `HuggingFace` · `PostgreSQL`
-
----
-
 ### 🧩 [AI-Powered Project Management System](https://github.com/baifan1366/project-management-system)
-**Final Year Project | Team Lead | 3-member team**
+Full-stack platform enhancing collaboration through AI automation.
 
-A collaborative project management tool integrated with AI-driven productivity assistants.
-
-**Key Features**
-- 💬 AI Chatbot for project assistance  
-- ✨ AI Task Assistant – create tasks using natural language  
-- 🧠 AI Workflow Builder – design node-based workflows for automated task chains  
+**Highlights**
+- 💬 AI Chatbot & Task Assistant  
+- 🧠 Natural-language project creation  
+- 🔗 Node-based AI Workflow Builder  
 
 **Tech Stack:** `Next.js` · `React` · `PostgreSQL` · `Vercel`
 
 ---
 
-## 💼 Experience
+### 🏆 [Studify – AI Tutoring RAG App](https://github.com/baifan1366/Studify)
+Hackathon-winning project that turns raw educational videos into intelligent, searchable learning units.
 
-### **Frontend Development Intern – Moabi PLT**  
-📍 Alor Gajar, Melaka | 2024.07 – 2024.10  
+**Features**
+- 🧬 Dual Embeddings (384 & 1024 dim) for accurate retrieval  
+- 🎥 Video → Audio → Text → Embeddings pipeline with Whisper AI  
+- 🤖 AI Agent with reasoning and self-calling  
+- 🧠 Context-aware Video QA Assistant  
 
-- Developed **role-based permission system** using JWT for access control.  
-- Enhanced **paging performance** via optimized SQL indexing.  
-- Built and tested REST APIs with **Postman & Swagger**.  
-- Implemented a **PDF Reader API** with Java Spring Boot (Maven).  
-- Integrated **E-Invoice System** with government APIs and multilingual support.
+**Tech Stack:** `Next.js` · `React` · `Redis` · `LangChain` · `HuggingFace` · `PostgreSQL`
 
 ---
 
-## 📚 Education
+## 💼 Experience
 
-🎓 **Bachelor of Computer Science (Software Engineering)**  
-Multimedia University, Cyberjaya | 2025.11 – Present  
+### 🧑‍💻 Frontend Development Intern @ Moabi PLT  
+📍 Alor Gajar, Melaka | 2024.07 – 2024.10  
 
-🎓 **Diploma in Information Technology**  
-Multimedia University, Melaka | 2023.08 – 2025.08  
-**CGPA:** 3.93 / 4.00
+- Built **role-based permission system** (JWT authentication).  
+- Enhanced **database query performance** with optimized SQL indexes.  
+- Developed **E-Invoice integration** with government APIs.  
+- Created **PDF Reader API** using Spring Boot (Maven).  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=baifan1366&show_icons=true&theme=radical&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baifan1366&layout=compact&theme=radical" />
+</p>
 
 ---
 
 ## 🌱 Currently Exploring
-- RAG optimization and vector search performance  
-- AI agent orchestration and self-reflection mechanisms  
-- Next.js 15 App Router with AI integration  
-- Supabase and Redis for scalable real-time systems  
-
----
-
-## 🤝 Let’s Connect
-- 📧 **Email:** [baifan1366@gmail.com](mailto:baifan1366@gmail.com)  
-- 💬 **WhatsApp:** 011-5581-9008  
-
----
-
-> “Code with purpose. Build with intelligence.”
-
+- RAG optimization & vector similarity techniques  
+- AI Agent orchestration and tool-chaining  
+- Next.js 15 with AI server actions  
+- Supabase
