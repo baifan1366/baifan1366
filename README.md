@@ -32,7 +32,7 @@ I love designing systems that **think**, **analyze**, and **assist users autonom
 
 ## 🚀 Featured Projects
 
-### 🧩 [AI-Powered Project Management System](https://github.com/baifan1366/project-management-system)
+### 🧩 [TeamSync - AI-Powered Project Management System](https://github.com/baifan1366/project-management-system)
 Full-stack platform enhancing collaboration through AI automation.
 
 **Highlights**
