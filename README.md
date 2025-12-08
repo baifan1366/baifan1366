@@ -26,7 +26,7 @@ I love designing systems that **think**, **analyze**, and **assist users autonom
 | **Frontend** | React, Next.js (App Router), Tailwind CSS, Redux, Angular |
 | **Backend & Infra** | Node.js, Supabase, PostgreSQL, Redis, Stripe, Vercel |
 | **AI / ML** | LangChain, OpenAI, Whisper AI, Embeddings (SBERT/384·1024), RAG |
-| **Tools** | Git, Swagger, Postman, HuggingFace, Render |
+| **Tools** | Git, Swagger, Postman, HuggingFace |
 
 ---
 
